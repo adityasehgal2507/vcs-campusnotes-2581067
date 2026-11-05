@@ -1,0 +1,37 @@
+GIT INTERVIEW QUESTIONS
+
+1. What is Git?
+Git is a distributed version control system.
+
+2. What is GitHub?
+An online platform for hosting Git repositories.
+
+3. What is a repository?
+A folder managed by Git.
+
+4. What is a commit?
+A snapshot of project changes.
+
+5. What is staging?
+Selecting changes before committing.
+
+6. What is a branch?
+A separate line of development.
+
+7. What is merging?
+Combining changes from branches.
+
+8. What is cloning?
+Copying a remote repository locally.
+
+9. What is Git stash?
+Temporarily saving uncommitted changes.
+
+10. What is Git push?
+Uploading local commits.
+
+11. What is Git pull?
+Downloading and integrating remote changes.
+
+12. What is Git tag?
+A label for an important commit.

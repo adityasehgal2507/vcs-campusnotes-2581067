@@ -1,0 +1,22 @@
+GITHUB AND REMOTE REPOSITORY
+
+GitHub is an online platform for hosting Git repositories.
+
+Git:
+Tracks changes locally.
+
+GitHub:
+Stores and shares repositories online.
+
+Other platforms:
+- GitLab
+- Bitbucket
+
+Check remote:
+git remote -v
+
+Add remote:
+git remote add origin <url>
+
+Clone repository:
+git clone <url>

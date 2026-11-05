@@ -1,0 +1,18 @@
+PYTHON DATA TYPES
+
+Common data types:
+
+1. int       - Integer numbers
+2. float     - Decimal numbers
+3. str       - Text
+4. bool      - True or False
+5. list      - Ordered collection
+6. tuple     - Immutable collection
+7. set       - Unique values
+8. dict      - Key-value pairs
+
+Example:
+name = "Python"
+age = 25
+price = 99.5
+is_active = True

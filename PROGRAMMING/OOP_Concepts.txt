@@ -1,0 +1,16 @@
+OBJECT-ORIENTED PROGRAMMING
+
+OOP is a programming approach based on objects.
+
+Four main concepts:
+
+1. Encapsulation
+2. Inheritance
+3. Polymorphism
+4. Abstraction
+
+Class:
+A blueprint for creating objects.
+
+Object:
+An instance of a class.

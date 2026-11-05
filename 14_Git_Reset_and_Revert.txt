@@ -1,0 +1,24 @@
+GIT RESET AND REVERT
+
+Reset:
+Moves the current branch to an earlier commit.
+
+git reset --soft HEAD~1
+git reset --mixed HEAD~1
+git reset --hard HEAD~1
+
+Soft:
+Keeps changes staged.
+
+Mixed:
+Keeps changes unstaged.
+
+Hard:
+Discards tracked working changes.
+
+Revert:
+Creates a new commit that reverses an earlier commit.
+
+git revert <commit-id>
+
+Use reset --hard carefully.

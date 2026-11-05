@@ -1,0 +1,16 @@
+SQL BASICS
+
+SQL stands for Structured Query Language.
+
+It is used to manage relational databases.
+
+Important commands:
+
+CREATE - Create database objects
+INSERT - Add records
+SELECT - Retrieve records
+UPDATE - Modify records
+DELETE - Delete records
+
+Example:
+SELECT * FROM students;

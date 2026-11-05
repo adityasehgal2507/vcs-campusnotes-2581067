@@ -1,0 +1,21 @@
+GIT REPOSITORY
+
+A repository is a folder where Git tracks project files
+and maintains their history.
+
+Create folder:
+mkdir myproject
+
+Enter folder:
+cd myproject
+
+Initialize repository:
+git init
+
+Git creates a hidden .git folder.
+
+Check repository:
+git status
+
+Show hidden files:
+ls -a

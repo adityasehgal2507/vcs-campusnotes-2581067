@@ -1,0 +1,15 @@
+GIT CONFIGURATION
+
+Set username:
+git config --global user.name "Your Name"
+
+Set email:
+git config --global user.email "you@example.com"
+
+View configuration:
+git config --list
+
+Open Git configuration:
+git config --global --edit
+
+Git uses username and email to identify commit authors.

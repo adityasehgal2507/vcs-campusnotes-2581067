@@ -1,0 +1,23 @@
+GIT TAGS
+
+A tag is a label for a specific commit.
+
+Create lightweight tag:
+git tag v1.0
+
+Create annotated tag:
+git tag -a v1.0 -m "First release"
+
+List tags:
+git tag
+
+Show tag:
+git show v1.0
+
+Push tag:
+git push origin v1.0
+
+Push all tags:
+git push --tags
+
+Tags are commonly used to mark software releases.

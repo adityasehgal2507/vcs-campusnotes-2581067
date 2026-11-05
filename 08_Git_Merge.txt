@@ -1,0 +1,20 @@
+GIT MERGE
+
+Merge combines changes from different branches.
+
+Example:
+
+git switch main
+git merge feature
+
+Merge conflict:
+Occurs when Git cannot automatically combine changes.
+
+To resolve:
+1. Open the conflicted file.
+2. Correct the conflicting content.
+3. Save the file.
+4. Stage and commit the resolution.
+
+git add .
+git commit -m "Resolve merge conflict"

@@ -1,0 +1,13 @@
+GIT BASIC COMMANDS
+
+git --version   - Check Git version
+git init        - Initialize repository
+git status      - Check file status
+git add .       - Stage changes
+git commit      - Save changes
+git log         - View history
+git clone       - Copy repository
+git push        - Upload changes
+git pull        - Download and integrate changes
+git branch      - View branches
+git merge       - Merge branches

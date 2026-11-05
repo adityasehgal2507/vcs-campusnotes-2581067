@@ -1,0 +1,13 @@
+LINUX COMMANDS
+
+pwd  - Current directory
+ls   - List files
+cd   - Change directory
+mkdir - Create directory
+rmdir - Remove empty directory
+touch - Create file
+cat  - Display file content
+cp   - Copy files
+mv   - Move or rename files
+rm   - Remove files
+clear - Clear terminal

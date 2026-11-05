@@ -1,0 +1,23 @@
+GIT HISTORY
+
+Git maintains the history of project changes.
+
+View complete history:
+git log
+
+Short history:
+git log --oneline
+
+Show commit details:
+git show
+
+Show changed files:
+git log --stat
+
+Compare unstaged changes:
+git diff
+
+Compare staged changes:
+git diff --staged
+
+History helps track who changed what and when.

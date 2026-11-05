@@ -1,0 +1,18 @@
+INTRODUCTION TO GIT
+
+Git is a free and popular Distributed Version Control System.
+
+Created by Linus Torvalds in 2005.
+
+Uses of Git:
+- Track code changes
+- Maintain project history
+- Collaborate with developers
+- Restore previous versions
+
+Popular platforms:
+- GitHub
+- GitLab
+- Bitbucket
+
+Git is a tool. GitHub is an online hosting platform.

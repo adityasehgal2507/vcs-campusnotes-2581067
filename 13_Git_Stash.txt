@@ -1,0 +1,23 @@
+GIT STASH
+
+Git stash temporarily saves unfinished tracked changes.
+
+Save changes:
+git stash
+
+Save with message:
+git stash push -m "Work in progress"
+
+View stashes:
+git stash list
+
+Restore changes:
+git stash apply
+
+Restore and remove latest stash:
+git stash pop
+
+Delete stash:
+git stash drop
+
+Stash is useful when switching tasks.

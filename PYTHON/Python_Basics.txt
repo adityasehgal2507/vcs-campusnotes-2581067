@@ -1,0 +1,12 @@
+PYTHON BASICS
+
+Python is a high-level programming language.
+
+Features:
+- Easy to learn
+- Interpreted language
+- Object-oriented
+- Cross-platform
+
+Example:
+print("Hello World")

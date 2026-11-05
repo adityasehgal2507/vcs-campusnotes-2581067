@@ -1,0 +1,21 @@
+GIT PUSH AND PULL
+
+Push:
+Uploads local commits to a remote repository.
+
+git push origin main
+
+Pull:
+Downloads and integrates remote changes.
+
+git pull origin main
+
+Fetch:
+Downloads remote updates without merging.
+
+git fetch origin
+
+Remember:
+Push = Upload
+Pull = Download and integrate
+Fetch = Download only

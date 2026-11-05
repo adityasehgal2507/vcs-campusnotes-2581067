@@ -1,0 +1,18 @@
+GIT STAGING AND COMMIT
+
+Staging:
+Selecting files before saving them in a commit.
+
+Stage one file:
+git add index.html
+
+Stage all changes:
+git add .
+
+Unstage a file:
+git restore --staged index.html
+
+Commit changes:
+git commit -m "Initial commit"
+
+A commit saves a snapshot of staged changes.

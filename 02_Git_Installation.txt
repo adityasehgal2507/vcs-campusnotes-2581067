@@ -1,0 +1,17 @@
+GIT INSTALLATION
+
+Download: https://git-scm.com/
+
+Windows:
+Download and run the Git installer.
+
+macOS:
+brew install git
+
+Linux:
+sudo apt-get install git
+
+Check installation:
+git --version
+
+Git Bash is a terminal used to run Git commands on Windows.

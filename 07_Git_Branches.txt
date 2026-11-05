@@ -1,0 +1,20 @@
+GIT BRANCHES
+
+A branch is a separate line of development.
+
+View branches:
+git branch
+
+Create branch:
+git branch feature
+
+Switch branch:
+git switch feature
+
+Create and switch:
+git switch -c new-feature
+
+Delete branch:
+git branch -d feature
+
+Branches help developers work on different features.

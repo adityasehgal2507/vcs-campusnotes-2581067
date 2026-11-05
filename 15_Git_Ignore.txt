@@ -1,0 +1,22 @@
+GIT IGNORE
+
+.gitignore prevents matching untracked files from
+being added to Git.
+
+Create a file named:
+.gitignore
+
+Example contents:
+
+node_modules/
+.env
+*.log
+*.tmp
+
+Meaning:
+node_modules/ - Ignore folder
+.env - Ignore environment file
+*.log - Ignore log files
+*.tmp - Ignore temporary files
+
+Already tracked files are not automatically ignored.
