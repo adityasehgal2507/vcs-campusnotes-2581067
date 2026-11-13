@@ -1,4 +1,7 @@
-# Simple Calculator
+"""
+Simple Calculator Program.
+Supports addition, subtraction, multiplication and division.
+"""
 
 def add(a, b):
     return a + b
