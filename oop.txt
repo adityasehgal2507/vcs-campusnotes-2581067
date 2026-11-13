@@ -1,0 +1,8 @@
+OBJECT ORIENTED PROGRAMMING
+
+1. Class is a blueprint for objects.
+2. Object is an instance of a class.
+3. Inheritance allows code reuse.
+4. Polymorphism means many forms.
+5. Encapsulation bundles data and methods.
+6. Abstraction hides implementation details.
