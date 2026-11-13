@@ -1,2 +1,2 @@
 s = input("Enter string: ")
-print("Reversed:", s[::1])
+print("Reversed:", s[::-1])
